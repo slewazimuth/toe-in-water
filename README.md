@@ -1,4 +1,4 @@
 toe-in-water
 ============
 
-This is a test repository for learning to effectively use github for projects.
+This is a test repository for learning to effectively use github for snurd projects.
